@@ -1,5 +1,5 @@
 [![GitHub Follow](https://img.shields.io/github/followers/adityab894?style=social&logo=github)](https://github.com/adityab894)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavKale03&label=Profile%20views&color=0e75b6&style=flat" alt="PranavKale03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab894&label=Profile%20views&color=0e75b6&style=flat" alt="adityab894" /> </p>
 
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Aditya Bisht](https://github.com/adityab894)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
