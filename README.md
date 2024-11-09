@@ -48,7 +48,7 @@ I'm not just a coder; I'm a tech maverick, blending creativity with coding exper
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,sass,tailwind,babel,react,nextjs,nodejs,express,redux,git,github,firebase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,sass,tailwind,babel,react,nextjs,nodejs,express,git,github,firebase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,ros,ros,replit,netlify,vercel&theme=dark&perline=15" />
   </a>
 </p>
 
